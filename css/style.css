@@ -1,0 +1,16 @@
+body{
+	font-size: 62.5%;
+	color: #fff;
+	list-style-type: none;
+	background:url('../image/background.gif') repeat-x;
+	background-color: #334;
+	text-decoration: none;
+}
+
+#person{
+	float: left;
+}
+
+#information{
+	float: right;
+}
