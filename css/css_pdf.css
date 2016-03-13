@@ -1,164 +1,141 @@
 body {
-    font-family: '隶书';
-    font-size: 62.5%;
-    margin: 0;
-    padding: 0;
+	font-family: '隶书';
+	font-size: 62.5%;
+	margin: 0;
+	padding: 0
 }
-
 #wrapper {
-    width: 100%;
-    position: relative;
-    overflow: hidden;
-    line-height: 1.5em;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	line-height: 1.5em
 }
-
 .box {
-    padding-right: 2%;
-    padding-left: 2%;
-    padding-top: 2%;
-    padding-bottom: 32%;
-    margin-bottom: -30%;
-    display: inline;
+	padding-right: 2%;
+	padding-left: 2%;
+	padding-top: 2%;
+	padding-bottom: 32%;
+	margin-bottom: -30%;
+	display: inline
 }
-
 .bottom {
-    width: 100%;
-    height: 2%;
-    position: absolute;
-    bottom: 0;
+	width: 100%;
+	height: 2%;
+	position: absolute;
+	bottom: 0
 }
-
 div#person {
-    float: left;
-    height: 50%;
-    width: 32%;
-    background-color: #e8e6e7;
-    margin: 0 5px;
-    position: relative;
+	float: left;
+	height: 50%;
+	width: 32%;
+	background-color: #e8e6e7;
+	margin: 0 5px;
+	position: relative
 }
-
 div#information {
-    float: right;
-    width: 55%;
+	float: right;
+	width: 55%
 }
-
 .tagLittle {
-    width: 100%;
-    padding-bottom: 5%;
-    padding-left: 15%;
-    background-position: left: center;
-    background-repeat: no-repeat;
-    // margin-left: 5%;
-    margin-bottom: 5%;
-
+	width: 100%;
+	padding-bottom: 5%;
+	padding-left: 15%;
+	background-position: left:center;
+	background-repeat: no-repeat;
+	// margin-left: 5%;
+	margin-bottom: 5%
 }
-.tagLittle2nd{
-    width: 100%;
-    // padding-bottom: 5%;
-    // padding-left: 15%;
-    background-position: left: center;
-    background-repeat: no-repeat;
-    // margin-left: 5%;
-    margin-bottom: 5%;
-    font-weight: bold;
-   
+.tagLittle2nd {
+	width: 100%;
+	// padding-bottom: 5%;
+	// padding-left: 15%;
+	background-position: left:center;
+	background-repeat: no-repeat;
+	// margin-left: 5%;
+	margin-bottom: 1%;
+	font-weight: bold;
 }
 div#email {
-    background-image: url('../image/message-closed-envelope (4).png');
+	background-image: url('../image/message-closed-envelope (4).png')
 }
-
 div#tel {
-    background-image: url('../image/cell-phone (2).png');
+	background-image: url('../image/cell-phone (2).png')
 }
-
 div#qq {
-    background-image: url('../image/qq-social-logo-of-a-penguin (4).png');
+	background-image: url('../image/qq-social-logo-of-a-penguin (4).png')
 }
-
 div#github {
-    background-image: url('../image/github-sign (3).png');
+	background-image: url('../image/github-sign (3).png')
 }
-
 .tagBig {
-    padding-bottom: 10%;
-    padding-left: 20%;
-    background-position: left: center;
-    background-repeat: no-repeat;
-    font-size: 2em;
+	padding-bottom: 10%;
+	padding-left: 20%;
+	background-position: left:center;
+	background-repeat: no-repeat;
+	font-size: 2em
 }
-.tagBig2nd{
-    padding-bottom: 5%;
-    padding-left: 20%;
-    background-position: left: center;
-    background-repeat: no-repeat;
-    font-size: 2em;
+.tagBig2nd {
+	padding-bottom: 5%;
+	padding-left: 20%;
+	background-position: left:center;
+	background-repeat: no-repeat;
+	font-size: 2em
 }
-
 div#englishTitle {
-    background-image: url('../image/switch-keyboard-language.png')
+	background-image: url('../image/switch-keyboard-language.png')
 }
-
 div#contactme {
-    background-image: url('../image/business-card-of-a-man-with-contact-info.png');
+	background-image: url('../image/business-card-of-a-man-with-contact-info.png')
 }
-
 #summary {
-    background-image: url('../image/male (2).png');
+	background-image: url('../image/male (2).png')
 }
-div#educationTitle{
-    background-image: url('../image/graduate-certificate (2).png')
+div#educationTitle {
+	background-image: url('../image/graduate-certificate (2).png')
 }
-div#skillTitle{
-    background-image: url('../image/programming (2).png')
+div#skillTitle {
+	background-image: url('../image/programming (2).png')
 }
-div#projectTitle{
-    background-image: url('../image/man-working-on-a-laptop-from-side-view (2).png')
+div#projectTitle {
+	background-image: url('../image/man-working-on-a-laptop-from-side-view (2).png')
 }
-
-div#gameTitle{
-    background-image: url('../image/game-controller (2).png')
+div#gameTitle {
+	background-image: url('../image/game-controller (2).png')
 }
-
 div#introduction p {
-    width: 100%;
-    text-align: center;
+	width: 100%;
+	text-align: center
 }
-
-
 div#person div#photo {
-    width: 100%;
-    text-align: center;
+	width: 100%;
+	text-align: center
 }
-
 #basic {
-    text-align: center;
-    margin-bottom: 30%;
+	text-align: center;
+	margin-bottom: 30%
 }
-
 .littleBox {
-    margin-bottom: 15%;
+	margin-bottom: 8%
 }
-
-.leastBox{
-    margin-bottom: 3%;
+.leastBox {
+	margin-bottom: 3%
 }
-
-ul{
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none
 }
-div#master{
-    position: relative;
+div#master {
+	position: relative
 }
-div#bachelor{
-    position: relative;
+div#bachelor {
+	position: relative
 }
-.timeBox{
-    position: relative;
+.timeBox {
+	position: relative
 }
-.time{
-    position: absolute;
-    right: 5%;
-    top: 0;
+.time {
+	position: absolute;
+	right: 5%;
+	top: 0
 }
