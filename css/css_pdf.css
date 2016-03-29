@@ -1,6 +1,6 @@
 body {
 	font-family: '隶书';
-	font-size: 62.5%;
+	font-size: 31.25%;
 	margin: 0;
 	padding: 0
 }
@@ -8,7 +8,7 @@ body {
 	width: 100%;
 	position: relative;
 	overflow: hidden;
-	line-height: 1.5em
+	line-height: 1.4em
 }
 .box {
 	padding-right: 2%;
@@ -52,7 +52,6 @@ div#information {
 	background-position: left:center;
 	background-repeat: no-repeat;
 	// margin-left: 5%;
-	margin-bottom: 1%;
 	font-weight: bold;
 }
 div#email {
@@ -75,7 +74,7 @@ div#github {
 	font-size: 2em
 }
 .tagBig2nd {
-	padding-bottom: 5%;
+	padding-bottom: 2%;
 	padding-left: 20%;
 	background-position: left:center;
 	background-repeat: no-repeat;
@@ -115,10 +114,11 @@ div#person div#photo {
 	margin-bottom: 30%
 }
 .littleBox {
-	margin-bottom: 8%
+	margin-bottom: 4%
 }
 .leastBox {
-	margin-bottom: 3%
+	margin-bottom: 5%
+	line-height:1em;
 }
 ul {
 	margin: 0;
