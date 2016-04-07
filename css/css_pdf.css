@@ -43,16 +43,18 @@ div#information {
 	background-position: left:center;
 	background-repeat: no-repeat;
 	// margin-left: 5%;
-	margin-bottom: 5%
+	margin-bottom: 5%；
+	font-weight:bold;
 }
 .tagLittle2nd {
 	width: 100%;
-	// padding-bottom: 5%;
+	padding-bottom: 5px;
 	// padding-left: 15%;
 	background-position: left:center;
 	background-repeat: no-repeat;
 	// margin-left: 5%;
 	font-weight: bold;
+	font-size: 1.2em;
 }
 // div#email {
 // 	background-image: url('../image/message-closed-envelope (4).png')
@@ -123,7 +125,7 @@ div#person div#photo {
 	margin-bottom: 10%;
 }
 .leastBox {
-	margin-bottom: 5%
+	padding-bottom: 18px;
 	line-height:1em;
 }
 ul {
